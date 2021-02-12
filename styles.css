@@ -3,8 +3,8 @@ body {
     padding: 0;
 }
 header {
-    max-width: 100%;
-    max-height: 80%;
+    max-width: 100wh;
+    max-height: 80vh;
     padding: 1em;
 }
 nav {
